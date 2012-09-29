@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4244
+
+(Y)et (A)nother (COM)ment is a vim commenting plugin with an extremely minimalist approach. It has only one keybind (default `<leader>c`) to toggle the comment (i.e. comment if not commented, uncomment otherwise) the current line (normal mode) or the selected line(s) (visual mode).
+
+See https://github.com/gokcehan/vim-yacom for more information.
